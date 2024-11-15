@@ -9,7 +9,8 @@ I'm a passionate **Frontend Developer** with a focus on building beautiful and r
 
 ### 🚀 My Projects
 Here are some of my favorite projects:
-- [**Project 1**](https://github.com/genssi/NurayBaskets) - I made this online store for myself and it is quite working
+- [**Project 1**](https://github.com/genssi/Soul-House.git) - I made this online store for myself and it is quite working
+- [**Project 2**](https://github.com/genssi/NurayBaskets) - online store Nuray Baskets (native js)
 
 Check out my pinned repositories below for more projects!
 
