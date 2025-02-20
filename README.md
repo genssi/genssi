@@ -3,8 +3,8 @@
 I'm a passionate **Frontend Developer** with a focus on building beautiful and responsive web applications. I love solving complex problems and constantly learning new technologies to improve my skills.
 
 ### 🛠 Tech Stack
-- **Frontend**: React, Redux, JavaScript, HTML, CSS ...
-- **Backend**: Node.js, Python
+- **Frontend**: React, JavaScript, TypeScript, HTML, CSS ...
+- **Backend**: Node.js
 - **Tools & Platforms**: Git, GitHub, Webpack, Firebase ...
 
 ### 🚀 My Projects
