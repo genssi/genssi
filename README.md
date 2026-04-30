@@ -1,33 +1,58 @@
-## Hi there 👋, I'm Bayel!
+# Привет, я Байэль 👋
 
-I'm a passionate **Frontend Developer** with a focus on building beautiful and responsive web applications. I love solving complex problems and constantly learning new technologies to improve my skills.
+Frontend-разработчик из Бишкека. Строю веб-приложения на React + TypeScript — от вёрстки до деплоя на собственный сервер.
 
-### 🛠 Tech Stack
-- **Frontend**: React, JavaScript, TypeScript, HTML, CSS ...
-- **Backend**: Node.js
-- **Tools & Platforms**: Git, GitHub, Webpack, Firebase ...
-
-### 🚀 My Projects
-Here are some of my favorite projects:
-- [**Project 1**](https://github.com/genssi/Soul-House.git) - I made this online store for myself and it is quite working
-- [**Project 2**](https://github.com/genssi/NurayBaskets) - online store Nuray Baskets (native js)
-
-Check out my pinned repositories below for more projects!
-
-### 📚 What I'm Learning
-I'm planning to dive into **React Native** to expand my skills into mobile app development. While I don't have commercial experience yet, I'm committed to mastering new technologies and building projects that showcase my abilities.
-
-### 🤝 Looking to Collaborate
-I'm open to collaborating on open-source projects and working with developers on interesting new ideas. Let's build something great together!
-
-### 📫 How to Reach Me
-- **Email**: [2001shermurzaev@gmail.com](mailto:2001shermurzaev@gmail.com)
-- **LinkedIn**: [linkedin.com/in/erkinbekov-bayel-06ba1a28b](https://www.linkedin.com/in/erkinbekov-bayel-06ba1a28b)
-- **Telegram**: [@genss_gitignore](https://t.me/genss_gitignore)
-
-### ⚡ Fun Fact
-I believe that learning never stops, and I'm always up for a good challenge! 🚀
+Мне интересно не просто написать код, но и довести продукт до реального пользователя: настроить Nginx, поднять HTTPS, подключить домен.
 
 ---
 
-Thank you for visiting my profile! 😊
+## 🛠 Стек
+
+**Frontend**
+`React` `TypeScript` `JavaScript (ES6+)` `HTML5` `CSS3 / SCSS` `Styled Components`
+
+**Backend & инфраструктура**
+`Node.js` `REST API` `Telegram Bot API` `Nginx` `Linux / VPS` `HTTPS`
+
+**Инструменты**
+`Git` `Vite` `Figma`
+
+---
+
+## 🚀 Проекты
+
+### 🛒 [MyBaskets.online](https://www.mybaskets.online/)
+Полноценный интернет-магазин с корзиной, оформлением заказа и admin-панелью.
+- Стек: React, TypeScript, Node.js, Styled Components
+- Telegram-уведомления о новых заказах через Bot API
+- Деплой на VPS: Nginx, HTTPS, привязка домена
+
+### 🎬 [Movie App](https://github.com/genssi/movie-genss)
+Поиск и просмотр фильмов через внешний API.
+- Стек: React, TypeScript
+
+### ✅ [ToDo App](https://github.com/genssi/ToDo)
+Умный список задач с фильтрацией и управлением состоянием.
+- Стек: React, TypeScript
+
+### 💼 [Портфолио](https://bayel.vercel.app)
+Личный сайт-портфолио.
+- Стек: TypeScript, React
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=genssi&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genssi&layout=compact&hide_border=true)
+
+---
+
+## 📫 Связаться
+
+[![Telegram](https://img.shields.io/badge/Telegram-@genss__gitignore-2CA5E0?logo=telegram&logoColor=white)](https://t.me/genss_gitignore)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bayel_Erkinbekov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erkinbekov-bayel-06ba1a28b)
+
+---
+
+*Открыт к позициям Junior Frontend Developer. Готов к стажировке и коммерческим проектам.*
