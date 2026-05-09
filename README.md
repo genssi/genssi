@@ -21,7 +21,7 @@ Frontend-разработчик. Строю веб-приложения на Rea
 
 ## 🚀 Проекты
 
-### 🛒 [Github Explorer](https://git-hub-explorer-beta.vercel.app/)
+### 🔍 [Github Explorer](https://git-hub-explorer-beta.vercel.app/)
 Приложение для поиска GitHub-пользователей и просмотра их репозиториев.
 - Стек: React, TypeScript, Vite
 - Поиск GitHub-пользователей с debounce
