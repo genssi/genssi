@@ -1,8 +1,6 @@
 # Привет, я Байэль 👋
 
-Frontend-разработчик. Строю веб-приложения на React + TypeScript — от вёрстки до деплоя на собственный сервер.
-
-Мне интересно не просто написать код, но и довести продукт до реального пользователя: настроить Nginx, поднять HTTPS, подключить домен.
+я обладаю прочными знаниями HTML, CSS, JavaScript , TypeScript и React. Умею создавать адаптивные, кроссбраузерные пользовательские интерфейсы, развиваю свои навыки в области веб-разработки, стремясь создавать чистый, эффективный код и приносить пользу в динамичной команде. Ищу возможность применить свой потенциал и развиваться в проектах любой сложности.
 
 ---
 
@@ -51,12 +49,6 @@ Frontend-разработчик. Строю веб-приложения на Rea
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=genssi&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genssi&layout=compact&hide_border=true)
-
----
 
 ## 📫 Связаться
 
